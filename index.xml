@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="TestEnv" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="theNinthAge-FantasyBattles.gstz" dataType="gamesystem" dataId="aa64-1e8e-66fc-9abf" dataName="The 9th Age: Fantasy Battles 2nd Edition 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="55"/>
+    <dataIndexEntry filePath="dreadElves2.catz" dataType="catalogue" dataId="ce46-6b39-6f02-8925" dataName="Dread Elves 2023 Beta 1" dataBattleScribeVersion="2.03" dataRevision="31"/>
+    <dataIndexEntry filePath="tsuandan.catz" dataType="catalogue" dataId="8101-aaa6-fb0b-24bc" dataName="Tsuandan_2023" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="verminSwarm.catz" dataType="catalogue" dataId="3966-f982-d360-9f91" dataName="Vermin Swarm 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="16"/>
+    <dataIndexEntry filePath="saurianAncients.catz" dataType="catalogue" dataId="3557-241b-5999-a3b1" dataName="Saurian Ancients 2022" dataBattleScribeVersion="2.03" dataRevision="57"/>
+    <dataIndexEntry filePath="orcsAndGoblins.catz" dataType="catalogue" dataId="fb15-9166-d400-2894" dataName="Orcs and Goblins 2023 Beta 2 Hotfix 1" dataBattleScribeVersion="2.03" dataRevision="57"/>
+    <dataIndexEntry filePath="makhar.catz" dataType="catalogue" dataId="f4f2-a5a5-873e-1b18" dataName="Makhar 2021" dataBattleScribeVersion="2.03" dataRevision="26"/>
+    <dataIndexEntry filePath="freeCompanies.catz" dataType="catalogue" dataId="da96-69fb-2ba6-9da8" dataName="Free Companies 1.3.1" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="asklanders.catz" dataType="catalogue" dataId="6f32-70a5-e6b1-a536" dataName="Åsklanders 2021" dataBattleScribeVersion="2.03" dataRevision="27"/>
+    <dataIndexEntry filePath="kingdomOfEquitaine.catz" dataType="catalogue" dataId="a0dc-734f-ea5e-2f6f" dataName="Kingdom of Equitaine 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
+    <dataIndexEntry filePath="hobgoblins.catz" dataType="catalogue" dataId="8ad8-dcc6-8331-c264" dataName="Hobgoblins 2021 Beta 2 Hotfix 1" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="kingdomOfEquitaine2.catz" dataType="catalogue" dataId="204b-f298-c044-edc2" dataName="Kingdom of Equitaine 2022.2 Alpha 4" dataBattleScribeVersion="2.03" dataRevision="11"/>
+    <dataIndexEntry filePath="theVerminSwarm.catz" dataType="catalogue" dataId="cb95-d0ac-2627-c23e" dataName="Vermin Swarm 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
+    <dataIndexEntry filePath="orcsAndGoblins2.catz" dataType="catalogue" dataId="4bd5-208b-0fd4-2a58" dataName="Orcs and Goblins 2023.2 Alpha 1" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="saurianAncients2.catz" dataType="catalogue" dataId="ebfc-b7cd-7aab-4b76" dataName="Saurian Ancients 2023 Alpha 2" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="infernalDwarves2.catz" dataType="catalogue" dataId="ed3b-0fdf-b39c-32b0" dataName="Infernal Dwarves 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="38"/>
+    <dataIndexEntry filePath="warriorsOfTheDarkGods.catz" dataType="catalogue" dataId="9cd6-2c84-c59e-7dd1" dataName="Warriors of the Dark Gods 2023" dataBattleScribeVersion="2.03" dataRevision="98"/>
+    <dataIndexEntry filePath="dwarvenHolds.catz" dataType="catalogue" dataId="041b-e72b-1f30-5a89" dataName="Dwarven Holds 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="54"/>
+    <dataIndexEntry filePath="sylvanElves.catz" dataType="catalogue" dataId="c524-67bf-fa35-6c5e" dataName="Sylvan Elves 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="56"/>
+    <dataIndexEntry filePath="highbornElves.catz" dataType="catalogue" dataId="66f6-8610-3962-63fa" dataName="Highborn Elves 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="70"/>
+    <dataIndexEntry filePath="beastHerds.catz" dataType="catalogue" dataId="f4f2-e414-182d-9513" dataName="Beast Herds 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="56"/>
+    <dataIndexEntry filePath="empireOfSonnstahl.catz" dataType="catalogue" dataId="1aa5-c442-6972-b551" dataName="Empire of Sonnstahl 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="52"/>
+    <dataIndexEntry filePath="undyingDynasties.catz" dataType="catalogue" dataId="4079-b3c9-934f-ce79" dataName="Undying Dynasties 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="56"/>
+    <dataIndexEntry filePath="daemonLegions.catz" dataType="catalogue" dataId="a422-c29f-5027-f336" dataName="Daemon Legions 2023" dataBattleScribeVersion="2.03" dataRevision="76"/>
+    <dataIndexEntry filePath="vampireCovenant.catz" dataType="catalogue" dataId="ef6e-1eeb-e440-8944" dataName="Vampire Covenant 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="62"/>
+    <dataIndexEntry filePath="nippon.catz" dataType="catalogue" dataId="c837-5cf4-590b-b3bb" dataName="Nippon 2.3.2" dataBattleScribeVersion="2.03" dataRevision="10"/>
+    <dataIndexEntry filePath="ogreKhans.catz" dataType="catalogue" dataId="b60b-8840-3461-ebf5" dataName="Ogre Khans 2023 Beta 2" dataBattleScribeVersion="2.03" dataRevision="63"/>
+    <dataIndexEntry filePath="cultists.catz" dataType="catalogue" dataId="baa8-f7ce-e46d-ad72" dataName="Cultists 2021" dataBattleScribeVersion="2.03" dataRevision="14"/>
+  </dataIndexEntries>
+</dataIndex>
